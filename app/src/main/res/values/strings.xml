@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoData</string>
+    <string name="btn_busca">Listar</string>
+    <string name="lblContinente">Continente: </string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+    <string name="lbl_capital">Capital: </string>
+    <string name="lbl_regiao">Região: </string>
+    <string name="msg_rede">"The network is out. Using local data."</string>
+
+</resources>
